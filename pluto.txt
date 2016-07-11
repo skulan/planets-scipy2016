@@ -1,4 +1,6 @@
 do something
 I did just one something
 Here is something else
-changes
+
+I've added a fourth line
+
